@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Talhi</string>
+
+    <!-- Detail Activity-->
+    <string name="detail_also_known_as_label">Also known as:</string>
+    <string name="detail_place_of_origin_label">Place of origin:</string>
+    <string name="detail_description_label">Description:</string>
+    <string name="detail_ingredients_label">Ingredients:</string>
+    <string name="ChangeLang">Idioma </string>
+
+
+    <!-- Content descriptions-->
+    <string name="sandwich_picture_content_description">Sandwich picture</string>
+
+    <!-- Error messages-->
+    <string name="detail_error_message">Sandwich data not available</string>
+
+    <string name="Share">Share</string>
+    <string name="Help">Help</string>
+    <string name="dialog_title">"Sharing "</string>
+    <string name="dialog_message">"Do you want to share?"</string>
+    <string name="yes">YES</string>
+    <string name="no">No</string>
+
+</resources>
